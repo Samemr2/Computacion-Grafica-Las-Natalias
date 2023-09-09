@@ -15,3 +15,6 @@ Ejercicio 1 Natalia Fernández García
 ![2 0](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/eb9ceded-8071-4c66-847c-4d0084ade971)
 
 
+EJERCICIO 2 - RAYO OSCURO
+
+![rayo oscuro](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/73328f08-99fe-45a2-8160-fd16be8c008d)
