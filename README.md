@@ -24,3 +24,9 @@ EJERCICIO 2 - RAYO OSCURO
 
 ![valores](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/6e68579a-7cfe-4517-b6e1-63006d8b0525)
 
+EJERCICIO SHADERS
+
+Máscaras
+
+Textura de mascara multicanal
+![tetra](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/ae916e22-740a-4875-a6cc-ae3bf72ecd2d)
