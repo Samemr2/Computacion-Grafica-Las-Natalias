@@ -24,3 +24,77 @@ EJERCICIO 2 - RAYO OSCURO
 
 ![valores](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/6e68579a-7cfe-4517-b6e1-63006d8b0525)
 
+EJERCICIO SHADERS
+
+Máscaras
+
+Textura de mascara multicanal
+
+![tetra](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/ae916e22-740a-4875-a6cc-ae3bf72ecd2d)
+
+Shader:
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/3b45f7fc-66cd-4c89-9760-ab3b84ff1f6e)
+
+Máscara radial procedural
+
+![procedural](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/ff1a82fd-db57-48c2-879f-55e4a984b2ea)
+
+Shader:
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/7775349a-2f90-4551-9925-1ca83abaa055)
+
+Distorsión
+
+Refracción con normal map (no sabemos porque se ve asi D:)
+
+![disto](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/f8956dde-d6f6-4937-ae2a-b9bb5578fc36)
+
+Shader:
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/3b338454-445e-435e-bf44-17a5c168c948)
+
+Movimiento de humo
+
+![smoke](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/c75dded6-4919-4282-9e84-92d7f92e1d3e)
+
+Shader:
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/800e147d-de6e-4a2e-bd7b-4a88add1f8d4)
+
+Erosión
+
+Disolver con ruido
+
+![erosion](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/fe302e89-7bbc-4bad-93b6-0a8ac41b1a6b)
+
+Shader:
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/bc15e30c-226d-4fc2-b8cd-9c2a7df73ee6)
+
+Disolver Textura Pre Creada
+
+![disolver](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/3fc887cf-cd9a-4ad1-954a-e4bb80494d7f)
+
+Shader:
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/4ab89780-7dcf-4562-8724-d652d5868b10)
+
+Coordenadas UV procedurales
+
+Coordenadas polares
+
+![coord](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/33f94623-2ef8-45a2-8ced-54723cb677a6)
+
+Shader:
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/613864fc-9253-4d1d-b23b-d23352637bd8)
+
+Textura en espejo
+
+![coord](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/5d944848-ea25-4068-9958-aff6a46a0061)
+
+Shader: 
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/5c51b9b6-fd31-4946-898f-c55a7063546b)
+
+
+
+
+
+
+
+
+
