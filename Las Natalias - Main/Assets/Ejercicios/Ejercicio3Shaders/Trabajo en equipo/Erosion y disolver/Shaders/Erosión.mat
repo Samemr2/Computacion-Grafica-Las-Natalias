@@ -56,12 +56,12 @@ Material:
     m_Floats:
     - _Erode_Start: 0
     - _Erode_Strenght: 0.262
-    - _Erosion_Start: 0.481
-    - _Noise_Scale: 49.8
+    - _Erosion_Start: 1
+    - _Noise_Scale: 29.57
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness: 0
-    - _strength: 1
+    - _strength: 6.52
     m_Colors:
-    - _Noise_Speed: {r: 1, g: -0.1, b: 0, a: 0}
+    - _Noise_Speed: {r: 3.06, g: 1.65, b: 0, a: 0}
   m_BuildTextureStacks: []

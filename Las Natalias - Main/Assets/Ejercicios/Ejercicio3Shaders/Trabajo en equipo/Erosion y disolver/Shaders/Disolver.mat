@@ -54,10 +54,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Disolve_Amount: 0.888
+    - _Disolve_Amount: 0.444
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness: 0.2
     m_Colors:
-    - _Color: {r: 0.82821417, g: 0.11329347, b: 0.14279741, a: 0}
+    - _Color: {r: 0.113725476, g: 0.827451, b: 0.6270982, a: 0}
   m_BuildTextureStacks: []
