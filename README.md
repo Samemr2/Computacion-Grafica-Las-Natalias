@@ -91,6 +91,45 @@ Shader:
 ![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/5c51b9b6-fd31-4946-898f-c55a7063546b)
 
 
+EJERCICIO SHADERS 2
+
+Video de Shader Funcionando
+
+https://drive.google.com/file/d/1Yd9tCGdpBeXp4IeyE3ooD-O1XbfsqoZR/view?usp=sharing
+
+Shadergraph
+
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/f26ac5d6-78c2-4e2e-8996-38bf6aa7c419)
+
+Overlay:
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/f61f7e2e-d7b1-46f5-a36a-fae943d163e1)
+
+Fade:
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/c2b51d8e-f788-4cd3-bbe1-47d76d0ea977)
+
+Scene Position:
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/638a4ca8-e549-416a-baa8-7b72f7478cc5)
+
+
+Displacement
+
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/db1396ba-b00d-4171-8bdb-7e7677f0a824)
+
+Refraccion
+
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/43ac8e16-38d7-4e8c-ae23-7e88f90f40f1)
+
+Color segun Profundidad
+
+![color depht](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/d45f721c-6955-41dc-873d-1fa0d74acf82)
+
+Reflejos
+
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/1a8ae4dc-921d-4988-a8bf-7f2ae229f82d)
+
+Intersecciones 
+
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/97f09c61-026e-4626-83a4-bece64d4726a)
 
 
 
