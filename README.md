@@ -141,12 +141,10 @@ Intersecciones
 
 https://youtu.be/2zvhdBdMHPI 
 
-![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/689efbc2-efa0-4a8f-92c7-c985b8ac7f1a)
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/0fedcd1d-3279-43a3-a837-ddb9d57ba11c)
 
 ### Gauss
 
 https://youtu.be/ZHKKNnTvFdM 
 
-![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/0fedcd1d-3279-43a3-a837-ddb9d57ba11c)
-
-
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/689efbc2-efa0-4a8f-92c7-c985b8ac7f1a)
