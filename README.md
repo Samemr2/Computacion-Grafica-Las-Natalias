@@ -15,7 +15,7 @@ Ejercicio 1 Natalia Fernández García
 ![2 0](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/eb9ceded-8071-4c66-847c-4d0084ade971)
 
 
-EJERCICIO 2 - RAYO OSCURO
+# EJERCICIO 2 - RAYO OSCURO
 
 ![rayo oscuro](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/73328f08-99fe-45a2-8160-fd16be8c008d)
 
@@ -24,7 +24,7 @@ EJERCICIO 2 - RAYO OSCURO
 
 ![valores](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/6e68579a-7cfe-4517-b6e1-63006d8b0525)
 
-EJERCICIO SHADERS
+# EJERCICIO SHADERS
 
 Máscaras
 
@@ -91,7 +91,7 @@ Shader:
 ![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/5c51b9b6-fd31-4946-898f-c55a7063546b)
 
 
-EJERCICIO SHADERS 2
+# EJERCICIO SHADERS 2
 
 Video de Shader Funcionando
 
@@ -132,8 +132,21 @@ Intersecciones
 ![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/97f09c61-026e-4626-83a4-bece64d4726a)
 
 
+# Efectos de postprocesado
 
 
+## Natalia Fernández García
 
+### Aberración cromatica
+
+https://youtu.be/2zvhdBdMHPI 
+
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/689efbc2-efa0-4a8f-92c7-c985b8ac7f1a)
+
+### Gauss
+
+https://youtu.be/ZHKKNnTvFdM 
+
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/0fedcd1d-3279-43a3-a837-ddb9d57ba11c)
 
 
