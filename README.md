@@ -148,3 +148,15 @@ https://youtu.be/2zvhdBdMHPI
 https://youtu.be/ZHKKNnTvFdM 
 
 ![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/689efbc2-efa0-4a8f-92c7-c985b8ac7f1a)
+
+## Samuel Morales Rodriguez
+
+### Aberración cromatica
+
+![aberracion](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/44f37098-3a52-4af8-8bae-bc35a34303a6)
+
+### Profundidad de campo (Gauss)
+
+![profund](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/dae7c663-256c-4768-9822-130a9e66df8a)
+
+
