@@ -157,6 +157,6 @@ https://youtu.be/ZHKKNnTvFdM
 
 ### Profundidad de campo (Gauss)
 
-![profund](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/dae7c663-256c-4768-9822-130a9e66df8a)
+![profund](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/d3f6974d-3d19-4208-8cf2-1a104ed8205b)
 
 
