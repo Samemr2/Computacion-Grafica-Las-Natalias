@@ -153,7 +153,7 @@ https://youtu.be/ZHKKNnTvFdM
 
 ### Aberración cromatica
 
-![aberracion](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/a67369f4-c51d-42c0-a883-3352d5dff3f8)
+![aberracion](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/ad858ed8-2ce4-4e66-a314-c20d2d477f71)
 
 ### Profundidad de campo (Gauss)
 
