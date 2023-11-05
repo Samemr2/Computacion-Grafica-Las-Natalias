@@ -137,13 +137,13 @@ Intersecciones
 
 ## Natalia Fernández García
 
-### Aberración cromatica
+## Aberración cromatica
 
 https://youtu.be/2zvhdBdMHPI 
 
 ![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/0fedcd1d-3279-43a3-a837-ddb9d57ba11c)
 
-### Gauss
+## Gauss
 
 https://youtu.be/ZHKKNnTvFdM 
 
@@ -151,12 +151,23 @@ https://youtu.be/ZHKKNnTvFdM
 
 ## Samuel Morales Rodriguez
 
-### Aberración cromatica
+## Aberración cromatica
 
 ![aberracion](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/ad858ed8-2ce4-4e66-a314-c20d2d477f71)
 
-### Profundidad de campo (Gauss)
+## Profundidad de campo (Gauss)
 
 ![profund](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/97973479/d3f6974d-3d19-4208-8cf2-1a104ed8205b)
+
+## Valeria Gonzalez Hernandez
+
+## Aberración cromatica
+
+![croma](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/79373892/dcb47c6f-14ec-4a9e-a9d7-8dac4731be08)
+
+## Profundidad de campo (Gauss)
+
+![diffuse](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/79373892/7884a224-dcb4-4ebc-9779-4917c4d144f9)
+
 
 
