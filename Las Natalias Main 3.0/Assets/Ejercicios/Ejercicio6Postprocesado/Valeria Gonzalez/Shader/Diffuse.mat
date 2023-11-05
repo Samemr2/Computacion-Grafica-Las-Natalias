@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Profundidad
-  m_Shader: {fileID: -6465566751694194690, guid: 51cebbca3b2ecf54fbae4ba82433565e,
+  m_Name: Diffuse
+  m_Shader: {fileID: -6465566751694194690, guid: 7443fa72c01d90f4d8b2f9f83c0469a1,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -43,8 +43,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _AppertureSmoothness: 0
-    - _AppertureStart: 0
-    - _FocalDistance: 2.82
-    - _PixelOffSet: -1.69
+    - _AppertureStart: 0.6
+    - _FocalDistance: -15.75
+    - _PixelOffSet: -8.3
     m_Colors: []
   m_BuildTextureStacks: []

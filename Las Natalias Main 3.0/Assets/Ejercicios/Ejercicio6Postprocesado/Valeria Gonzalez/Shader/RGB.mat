@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Profundidad
-  m_Shader: {fileID: -6465566751694194690, guid: 51cebbca3b2ecf54fbae4ba82433565e,
+  m_Name: RGB
+  m_Shader: {fileID: -6465566751694194690, guid: 590be53e7e640144397bd333e089c0e0,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -24,10 +24,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _BlitTexture:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -42,9 +38,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AppertureSmoothness: 0
-    - _AppertureStart: 0
-    - _FocalDistance: 2.82
-    - _PixelOffSet: -1.69
-    m_Colors: []
+    - _Offset_Canal: 85.6
+    m_Colors:
+    - _Canales: {r: -2.2, g: -2.3, b: -2.29, a: 0}
   m_BuildTextureStacks: []
