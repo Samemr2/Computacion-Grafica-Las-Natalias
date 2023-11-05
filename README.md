@@ -163,11 +163,11 @@ https://youtu.be/ZHKKNnTvFdM
 
 ## Aberración cromatica
 
-![croma](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/79373892/dcb47c6f-14ec-4a9e-a9d7-8dac4731be08)
+![croma](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/79373892/5ce42597-845a-480f-9425-573408e673bd)
 
 ## Profundidad de campo (Gauss)
 
-![diffuse](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/79373892/7884a224-dcb4-4ebc-9779-4917c4d144f9)
+
 
 
 
