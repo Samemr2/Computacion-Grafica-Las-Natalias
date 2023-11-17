@@ -169,6 +169,32 @@ https://youtu.be/ZHKKNnTvFdM
 
 ![diffuse](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/79373892/3584d7c2-0992-426f-a9a2-14a3b67dc109)
 
+# Final
+
+## Natalia Fernández García - Explosión 
+
+### Referencias 
+
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/ba2dff7f-67a0-4cbd-94c4-5bfca4f09489)
+
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/b9aa2b87-5fba-4fe0-b221-174914c0237a)
+
+## Valeria Gonzalez Hernandez - Escudo
+
+### Referencias 
+
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/7bf7fc4c-e5c5-4632-9e5c-c847bb0c66fb)
+
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/b94651cb-a664-484b-a8c6-9c5aa1ef1f7e)
+
+## Samuel Morales Rodriguez - Run trail
+
+### Referencias 
+
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/fd78fff6-511b-48ed-84ee-834160bfd142)
+
+![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/58fc6384-39be-46b6-b21f-6a13197976dd)
+
 
 
 
