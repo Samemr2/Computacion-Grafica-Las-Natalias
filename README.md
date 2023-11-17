@@ -196,5 +196,10 @@ https://youtu.be/ZHKKNnTvFdM
 ![image](https://github.com/Samemr2/Computacion-Grafica-Las-Natalias/assets/109627849/58fc6384-39be-46b6-b21f-6a13197976dd)
 
 
+## BUILD FINAL
+
+https://drive.google.com/file/d/1Bl442shEUnXiTUOtvYkJi4MXdFCLfMAl/view?usp=drive_link
+
+
 
 
